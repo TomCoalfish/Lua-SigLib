@@ -1,0 +1,9 @@
+[submodule "siglib"]
+	path = siglib
+	url = https://github.com/Numerix-DSP/siglib/
+[submodule "gnuplot_c"]
+	path = gnuplot_c
+	url = https://github.com/Numerix-DSP/gnuplot_c
+[submodule "NumerixGraphicsLibrary"]
+	path = NumerixGraphicsLibrary
+	url = https://github.com/Numerix-DSP/NumerixGraphicsLibrary
