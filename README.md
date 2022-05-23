@@ -3,7 +3,7 @@ SigLib
 
 # It's a serious library
 * If they catch you doing evil stuff with it they will twist your nuts 
-* Do as thou shall be the whole of the law he said
+* Do as thou will shall be the whole of the law he said
 
 # It's got all the functions imaginable
 * Everything you ever wanted to do
