@@ -5,6 +5,10 @@ SigLib
 * If they catch you doing evil stuff with it they will twist your nuts 
 * Do as thou shall be the whole of the law he said
 
+# It's got all the functions imaginable
+* Everything you ever wanted to do
+* Every algorithms is imaginable 
+
 # Frequency Domain Functions
  * SIF_Fft                             - Initialise FFT functionality
  * SDA_Rfft                            - Real to Complex Fast Fourier Transform (FFT)
